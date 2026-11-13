@@ -50,19 +50,19 @@ Each video builds on the previous one, so please don't skip ahead.
 >
 > - **Getting the starter files:** don't download `tables_start.zip`. Create your own repo
 >   from this template and open it with GitHub Desktop, as described in the
->   [README](README.md#-getting-started).
+>   [Getting Started guide](GETTING_STARTED.md).
 > - **Naming your file:** rename `table.html` to **`index.html`**, whatever name the video
 >   uses. GitHub Pages only serves `index.html` at your site's root URL; any other name gives
 >   you a 404. Rename the file — don't create a second one.
 > - **Submitting:** don't zip your folder or upload a file. Publish your page to GitHub
 >   Pages and submit a pull request URL in Canvas, as described in the
->   [README](README.md#-submitting-the-assignment).
+>   [Submitting guide](SUBMITTING.md).
 
 ## 🖼️ Example Output
 
 Your finished page should look like this:
 
-![The finished table: an "Unhealthy Restaurant Food" title above a bordered table with Food, Restaurant, Calories, and Fat columns, four rows of data, and gray shading on every other row](finished.png)
+![The finished table: an "Unhealthy Restaurant Food" title above a bordered table with Food, Restaurant, Calories, and Fat columns, four rows of data, and gray shading on every other row](../finished.png)
 
 The table data:
 
@@ -141,4 +141,4 @@ If something is not working, check these common issues first:
 
 ---
 
-The AI policy and submission instructions are in the [README](README.md).
+The AI policy and submission instructions are in the [README](../README.md).
